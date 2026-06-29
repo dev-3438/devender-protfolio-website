@@ -258,7 +258,7 @@ export type Certificate = {
 export const certificates: Certificate[] = [
   { title: "CS50x: Introduction to Computer Science", issuer: "Harvard University", date: "2026", verify: "https://certificates.cs50.io/55852341-d90e-4793-97a6-2eb46551f233.pdf?size=letter" },
   { title: "CS50P: Programming with Python", issuer: "Harvard University", date: "2026", verify: "https://cs50.harvard.edu/certificates/7342453a-486a-4455-bdd6-6c1ffedced8f" },
-  { title: "Web Development Certificate", issuer: "freeCodeCamp", date: "2026", verify: "#" },
+  { title: "Python-v9", issuer: "freeCodeCamp", date: "2026", verify: "https://www.freecodecamp.org/certification/fcc9a0876d9-1c54-409a-b522-d3d440a1e796/python-v9" },
   { title: "Python Certificate", issuer: "HackerRank", date: "2026", verify: "#" },
   { title: "Artificial Intelligence and Machine Learning", issuer: "simplilearn", date: "2026", verify: "https://certificates.simplicdn.net/share/10400738_10716904_1782571543573.pdf" },
 ];
